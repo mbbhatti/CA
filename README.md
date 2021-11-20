@@ -1,5 +1,5 @@
  # CA
-Graphical review representation.
+Graphical review presentation.
 
 ## Requirements
 - PHP >= 7.2
